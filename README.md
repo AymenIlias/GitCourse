@@ -2,7 +2,7 @@
 For Zero Web School Git Course
 
 ## Notes
-#one 
+# one 
 this
-#two
+# two
 second div
